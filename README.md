@@ -1,2 +1,2 @@
 # Trail
-Just to practice
+Just for practice
